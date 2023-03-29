@@ -1,2 +1,4 @@
-# projeto2-instagram
-Created with CodeSandbox
+# instagram-static-page
+Simple project using HTML/CSS. Recreation of Instagram layout.
+
+
